@@ -1,2 +1,2 @@
 "# Python_Bootcamp_Homeworks" 
-Edip yetismediklerimi, 1 2 hepdanin dowamynda edip github-a goyarn.
+Cozup yetismediklerimi 1 hepdanin dowamynda cozup github-a goyarn.
