@@ -1,4 +1,4 @@
-string = 'Hello'
+string = str(input('|| -> '))
 def rotate(string):
     rotated_strings = []
     for i in range(0,len(string)+1):
