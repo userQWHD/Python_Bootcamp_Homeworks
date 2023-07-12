@@ -1,8 +1,9 @@
 q = {
-    1: 'addition',
-    2: 'subtraction',
-    3: 'multiplication',
-    4: 'division'
+    1: 'decimeter',
+    2: 'kilometer',
+    3: 'meter',
+    4: 'millimeter',
+    5: 'centimeter'
 }
 
 print('The units of length ↓ \n\n1 = decimeter\n2 = kilometer\n3 = meter\n4 = millimeter\n5 = centimeter')
